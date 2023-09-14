@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182334574674",
+    "project_id": "translatorapp-3ee3c",
+    "storage_bucket": "translatorapp-3ee3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182334574674:android:e29f5916f70fe32f2acf8b",
+        "android_client_info": {
+          "package_name": "com.annaginagili.translatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxuNRcVHakKmtnoCv2pmNHcblM7khoIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182334574674:android:b28e43bcfae6d2a42acf8b",
+        "android_client_info": {
+          "package_name": "com.annginagili.translatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAxuNRcVHakKmtnoCv2pmNHcblM7khoIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

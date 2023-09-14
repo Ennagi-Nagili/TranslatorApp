@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TranslatorApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="translate_on_the_go">Translate on the Go</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="feedback">Feedback</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="language_translator">Language Translator</string>
+    <string name="chat">Chat</string>
+    <string name="camera">Camera</string>
+    <string name="history">History</string>
+    <string name="favourite">Favourite</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="enter_text_here">Enter text here...</string>
+    <string name="translate">Translate</string>
+    <string name="camera_translation">Camera translation</string>
+</resources>
